@@ -2,7 +2,7 @@
 - A wireframe is a skeleton that defines how the application or the website will look like.
 - It Outlines the basic structure and the layout of the app without delving into much more details
 
-# Key Elementss of Wireframing
+# Key Elements of Wireframing
 - Navigation 
     This shows how the users will be able to navigate through the app and also exit the app
 - Layout Structure
