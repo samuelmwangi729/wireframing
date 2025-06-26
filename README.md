@@ -31,3 +31,40 @@ Wireframing has many professional tools in the industry. One of the most used to
 - has a lot of design tools
 - Allows version control
 - has a lot of plugins and widgets
+
+# Benefits of Wireframing
+- Clarify Requirements: Wireframes help translate user and business needs into clear, visual representations.
+
+- Focus on User Experience (UX): By emphasizing layout and navigation without visual distractions, wireframes prioritize usability and flow.
+
+- Faster Iteration: They allow for quick changes and feedback early in the process, reducing costly revisions later.
+
+- Effective Communication: Wireframes align teams (designers, developers, clients) on structure and functionality before visual design begins.
+
+# Wireframing in Practice
+During the redesign of an e-commerce mobile app, the design team created wireframes to map out the checkout process. In the initial wireframes, the checkout page included multiple sections—shipping details, billing information, and payment options—displayed all on one long scrolling screen.
+
+🚨 Identified Usability Issue:
+During a stakeholder review of the wireframes, concerns were raised:
+
+Users might feel overwhelmed by the long form.
+
+Important elements like the "Place Order" button were buried at the bottom.
+
+It wasn’t clear which steps were required or optional.
+
+## ✅ Resolution:
+Before any development began, the team used the wireframes to:
+
+Break the checkout flow into step-by-step screens using a progress indicator.
+
+Group related fields together and only show what’s necessary at each step.
+
+Place call-to-action buttons in clear and consistent positions.
+
+## 💡 Impact on Final Product:
+User testing showed a 35% decrease in cart abandonment.
+
+The checkout experience became faster and less frustrating.
+
+Developers built a cleaner, more modular codebase because the flow was clearly defined upfront.
